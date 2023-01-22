@@ -1,0 +1,4 @@
+nearata-discord-widget:
+  admin:
+    server_id: Server ID
+    server_id_help: Your Server -> Server Settings -> Widget -> Server ID
