@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-discord-widget.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-discord-widget) or the [upstream repository](https://github.com/Nearata/flarum-ext-discord-widget).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/nearata-flarum-ext-discord-widget/tree/archive/v1.0.1) · License: `Unlicense` · Flarum: `^1.6.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/nearata-flarum-ext-discord-widget/tree/archive/v1.0.1) · License: `Unlicense` · Flarum: `^1.6.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2022-12-28 | `^1.6.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-discord-widget/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-01-22 | `^1.6.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-discord-widget/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-discord-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-discord-widget.json)
 
